@@ -21,7 +21,7 @@ btn1.addEventListener("click", function () {
         tg.MainButton.setText("Вывести информацию о популярных ароматах");
         item = "popular";  // Устанавливаем значение item
         tg.MainButton.show();  // Показываем кнопку
-        showUserCard("Вот несколько популярных ароматов:\n1. Chanel No. 5\n2. Dior Sauvage\n3. Gucci Bloom");
+        showUserCard("Вот несколько популярных ароматов:\n1. Chanel No. 5\n2. Dior Sauvage");
     }
 });
 
